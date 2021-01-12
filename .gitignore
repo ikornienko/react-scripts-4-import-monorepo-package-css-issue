@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# development
+.vscode
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# misc
+.DS_Store
